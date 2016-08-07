@@ -1,7 +1,7 @@
+#!/bin/bash
 echo "Desenvolvido por Guilherme:) www.facebook.com/guilhermexyz"
 echo "----------------------------------------------------------"
 sudo su
-#!/bin/bash
 apt-get install python-dev 
 apt-get install python-virtualenv
 virtualenv .
