@@ -1,3 +1,18 @@
+# Tutorial de Instalação Rápida PT-BR.
+Requerimentos : Linux, Internet.
+--------------------------------
+## Após entrar no linux abra o terminal [Para abrir o terminal pressione ctrl+alt T].
+   Digite a seguinte linha de comando sudo apt-get install git.
+   <br> Depois ainda no terminal digite > sudo git clone https://github.com/helloitu/PokemonGo-Bot.git <
+   <br> Depois digite o comando > cd PokemonGo-Bot-master <
+   <br> Após isso digite > ./full-installer.sh <
+   <br> Aguarde o bot iniciar.
+
+
+
+
+
+
 
 # PokemonGo-Bot (Working)
 PokemonGo bot is a project created by the [PokemonGoF](https://github.com/PokemonGoF) team.
